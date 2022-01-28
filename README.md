@@ -5,4 +5,5 @@ Simple Discord bot that show player count as status.
 ```
 SERVER_IP=YourServerIpAddress
 DISCORD_TOKEN=YourDiscordBotToken
+DISCORD_PREFIX=!
 ```
